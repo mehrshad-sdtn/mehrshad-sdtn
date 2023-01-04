@@ -6,7 +6,24 @@ I am also fascinated by **Medical Applications of Machine Learning** and how it 
 
 Also visit my website at [**mehrshad-sdtn.github.io**](https://mehrshad-sdtn.github.io/)
 
+### Programming Languages
+- Python
+- Java
+- Elixir
+- MATLAB
+- Javascript
+- C++
+- Hardware description languages (VHDL, Verilog)
 
+
+### AI related skills
+- Numpy
+- Pandas
+- OpenCV
+- Scipy
+- Tensorflow and Keras
+- NLTK
+- PyTorch
 
 <br>
 📈 my github stats
